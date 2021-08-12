@@ -7,4 +7,4 @@ I made this because I realized that the method I was using to fill corners manua
 
 
 
-\*A cruciverbalist is a person who make crossword puzzles
+\*A cruciverbalist is a person who makes crossword puzzles
